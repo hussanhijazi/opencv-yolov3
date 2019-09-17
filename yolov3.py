@@ -126,7 +126,7 @@ cv2.putText(image, '{0} {1}'.format("Veiculos: ", len(idxs)), (20, 20), cv2.FONT
             0.5, (255, 255, 255), 2)
 
 # save image
-cv2.imwrite('image_car_count.png', image)
+cv2.imwrite('image_car_detection_count.png', image)
 
 # show the output image
 cv2.imshow("Image", image)
