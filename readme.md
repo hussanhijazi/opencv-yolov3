@@ -19,7 +19,7 @@ Car detection with OpenCV and Yolov3
 - wget https://pjreddie.com/media/files/yolov3.weights
 
 ## Run application
-- python yolov3.py --image ponte_zoom.png
+- python yolov3.py --image cars.jpg
 
 
 ## Links
