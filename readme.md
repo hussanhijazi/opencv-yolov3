@@ -15,3 +15,10 @@
 
 ## Run application
 - python yolov3.py --image ponte_zoom.png
+
+
+## Links
+- [https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/](URL)
+- [https://www.cnblogs.com/jins-note/p/9952737.html](URL)
+- [https://github.com/PySimpleGUI/PySimpleGUI/blob/master/YoloObjectDetection/yolo.py](URL)
+- [https://pjreddie.com/darknet/yolo/](URL)
