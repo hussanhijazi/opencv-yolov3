@@ -1,3 +1,8 @@
+# Car detection
+Car detection with OpenCV and Yolov3
+
+![Car detection with Opencv and Yolov3](https://raw.githubusercontent.com/hussanhijazi/opencv-yolov3/master/image_car_count.png)
+
 # Install
 
 ## Create a virtualenv  
